@@ -1,1 +1,1 @@
-# CRUD_task
+# Simple-Django-Python-CRUD-MySql
